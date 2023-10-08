@@ -1,2 +1,2 @@
 # Pastahook-Free
-# the keybinds / watermark will be fixed in the next update
+# just a simple paster making a free cheat.
